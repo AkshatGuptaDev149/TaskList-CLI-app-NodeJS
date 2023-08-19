@@ -6,7 +6,8 @@
   you and save your tasks in it.
 
 # 3.How to use The Program
-  .First clone the repository in a remote directory in you PC using 'git clone'.<br/>
+  .First clone the repository in a remote directory in you PC using 'git clone git@github.com:AkshatGuptaDev149/TaskList-CLI-app- 
+   NodeJS.git'.<br/>
   .Open the powershell or cmd in that directory and type 'npm install' to Install all the recquired packages.<br/>
   .Open the Run TaskList.cmd file to run the program.<br/>
 
